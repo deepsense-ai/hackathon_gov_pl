@@ -24,5 +24,5 @@ with open(argv[1] + '.parsed', 'w') as outF:
             nazwaRaw = unicode(ziom.find('DanePodstawowe').find('Firma').text)
             bezpolskich = trans(nazwaRaw).encode('utf8')
             a4 = ' '.join(filter(lambda x: x.isalpha(), map(lambda x: x if x[-1].isalpha() else x[:-1], bezpolskich.split()))).lower()
-            outF.write(str(a1) + ',' + str(a2) + ',' + str(a3) + '\n')
+            outF.write(','.join(map(str, [a1,a2,a4,a3])) + '\n')
 
