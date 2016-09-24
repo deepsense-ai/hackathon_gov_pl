@@ -1,18 +1,19 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[8]:
 
 from lxml import etree
 from itertools import islice
 from sys import argv
+from trans import trans
 
 
-# In[ ]:
+# In[14]:
 
 with open(argv[1] + '.parsed', 'w') as outF:
     with open(argv[1]) as inF:
-        for l in inF:
+        for l in islice(inF, 2):
             try:
                 ziom = etree.fromstring(l)
             except etree.XMLSyntaxError:
@@ -20,10 +21,8 @@ with open(argv[1] + '.parsed', 'w') as outF:
             a1 = ziom.find('DaneAdresowe').find('AdresGlownegoMiejscaWykonywaniaDzialalnosci').find('KodPocztowy').text
             a2 = ziom.find('DaneDodatkowe').find('DataRozpoczeciaWykonywaniaDzialalnosciGospodarczej').text
             a3 = ziom.find('DaneDodatkowe').find('KodyPKD').text
+            nazwaRaw = unicode(ziom.find('DanePodstawowe').find('Firma').text)
+            bezpolskich = trans(nazwaRaw).encode('utf8')
+            a4 = ' '.join(filter(lambda x: x.isalpha(), map(lambda x: x if x[-1].isalpha() else x[:-1], bezpolskich.split()))).lower()
             outF.write(str(a1) + ',' + str(a2) + ',' + str(a3) + '\n')
-
-
-# In[ ]:
-
-
 
