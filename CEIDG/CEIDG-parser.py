@@ -13,7 +13,7 @@ from trans import trans
 
 with open(argv[1] + '.parsed', 'w') as outF:
     with open(argv[1]) as inF:
-        for l in islice(inF, 2):
+        for l in inF:
             try:
                 ziom = etree.fromstring(l)
             except etree.XMLSyntaxError:
