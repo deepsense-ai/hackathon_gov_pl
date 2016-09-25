@@ -28,7 +28,7 @@ with open(argv[1] + '.parsed', 'w') as outF:
                 pop += l.strip()
                 continue
             a1 = ziom.find('DaneAdresowe').find('AdresGlownegoMiejscaWykonywaniaDzialalnosci').find('KodPocztowy').text
-            if not (len(a1) == 6 and a1[0:2].isdigit() and a1[2] == '-' and a1[3:].isdigit()):
+            if not (a1 is not None and len(a1) == 6 and a1[0:2].isdigit() and a1[2] == '-' and a1[3:].isdigit()):
                 a1 = None
             a2 = ziom.find('DaneDodatkowe').find('DataRozpoczeciaWykonywaniaDzialalnosciGospodarczej').text
             a3 = ziom.find('DaneDodatkowe').find('KodyPKD').text
