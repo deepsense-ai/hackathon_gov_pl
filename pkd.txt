@@ -1,0 +1,390 @@
+Sekcja A – Rolnictwo, leśnictwo, łowiectwo i rybactwo
+Dział   Grupa   Nazwa grupowania
+01  .   UPRAWY ROLNE, CHÓW I HODOWLA ZWIERZĄT, ŁOWIECTWO, WŁĄCZAJĄC DZIAŁALNOŚĆ USŁUGOWĄ
+.   01.1    Uprawy rolne inne niż wieloletnie
+.   01.2    Uprawa roślin wieloletnich
+.   01.3    Rozmnażanie roślin
+.   01.4    Chów i hodowla zwierząt
+.   01.5    Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)
+.   01.6    Działalność usługowa wspomagająca rolnictwo i następująca po zbiorach
+.   01.7    Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową
+02  .   LEŚNICTWO I POZYSKIWANIE DREWNA
+.   02.1    Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych
+.   02.2    Pozyskiwanie drewna
+.   02.3    Pozyskiwanie dziko rosnących produktów leśnych, z wyłączeniem drewna
+.   02.4    Działalność usługowa związana z leśnictwem
+03  .   RYBACTWO
+.   03.1    Rybołówstwo
+.   03.2    Chów i hodowla ryb oraz pozostałych organizmów wodnych
+Sekcja B – Górnictwo i wydobywanie
+Dział   Grupa   Nazwa grupowania
+05  .   WYDOBYWANIE WĘGLA KAMIENNEGO I WĘGLA BRUNATNEGO (LIGNITU)
+.   05.1    Wydobywanie węgla kamiennego
+.   05.2    Wydobywanie węgla brunatnego (lignitu)
+06  .   GÓRNICTWO ROPY NAFTOWEJ i GAZU ZIEMNEGO
+.   06.1    Górnictwo ropy naftowej
+.   06.2    Górnictwo gazu ziemnego
+07  .   GÓRNICTWO RUD METALI
+.   07.1    Górnictwo rud żelaza
+.   07.2    Górnictwo rud metali nieżelaznych
+08  .   POZOSTAŁE GÓRNICTWO I WYDOBYWANIE
+.   08.1    Wydobywanie kamienia, piasku i gliny
+.   08.9    Górnictwo i wydobywanie, gdzie indziej niesklasyfikowane
+09  .   DZIAŁALNOŚĆ USŁUGOWA WSPOMAGAJĄCA GÓRNICTWO I WYDOBYWANIE
+.   09.1    Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego
+.   09.9    Działalność usługowa wspomagająca pozostałe górnictwo i wydobywanie
+Sekcja C – Przetwórstwo przemysłowe
+Dział   Grupa   Nazwa grupowania
+10  .   PRODUKCJA ARTYKUŁÓW SPOŻYWCZYCH
+.   10.1    Przetwarzanie i konserwowanie mięsa oraz produkcja wyrobów z mięsa
+.   10.2    Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków
+.   10.3    Przetwarzanie i konserwowanie owoców i warzyw
+.   10.4    Produkcja olejów i tłuszczów pochodzenia roślinnego
+
+i zwierzęcego
+.   10.5    Wytwarzanie wyrobów mleczarskich
+.   10.6    Wytwarzanie produktów przemiału zbóż, skrobi i wyrobów skrobiowych
+.   10.7    Produkcja wyrobów piekarskich i mącznych
+.   10.8    Produkcja pozostałych artykułów spożywczych
+.   10.9    Produkcja gotowych paszy i karmy dla zwierząt
+11  11.0    PRODUKCJA NAPOJÓW
+12  12.0    PRODUKCJA WYROBÓW TYTONIOWYCH
+13  .   PRODUKCJA WYROBÓW TEKSTYLNYCH
+.   13.1    Przygotowanie i przędzenie włókien tekstylnych
+.   13.2    Produkcja tkanin
+.   13.3    Wykończanie wyrobów włókienniczych
+.   13.9    Produkcja pozostałych wyrobów tekstylnych
+14  .   PRODUKCJA ODZIEŻY
+.   14.1    Produkcja odzieży, z wyłączeniem wyrobów futrzarskich
+.   14.2    Produkcja wyrobów futrzarskich
+.   14.3    Produkcja odzieży dzianej
+15  .   PRODUKCJA SKÓR I WYROBÓW ZE SKÓR WYPRAWIONYCH
+.   15.1    Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych; produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich
+.   15.2    Produkcja obuwia
+16  .   PRODUKCJA WYROBÓW Z DREWNA ORAZ KORKA, Z WYŁĄCZENIEM MEBLI; PRODUKCJA WYROBÓW ZE SŁOMY I MATERIAŁÓW UŻYWANYCH DO WYPLATANIA
+.   16.1    Produkcja wyrobów tartacznych
+.   16.2    Produkcja wyrobów z drewna, korka, słomy i materiałów używanych do wyplatania
+17  .   PRODUKCJA PAPIERU I WYROBÓW Z PAPIERU
+.   17.1    Produkcja masy włóknistej, papieru i tektury
+.   17.2    Produkcja wyrobów z papieru i tektury
+18  .   POLIGRAFIA I REPRODUKCJA ZAPISANYCH NOŚNIKÓW INFORMACJI
+.   18.1    Drukowanie i działalność usługowa związana z poligrafią
+.   18.2    Reprodukcja zapisanych nośników informacji
+19  .   WYTWARZANIE I PRZETWARZANIE KOKSU I PRODUKTÓW RAFINACJI ROPY NAFTOWEJ
+.   19.1    Wytwarzanie i przetwarzanie koksu
+.   19.2    Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej
+20  .   PRODUKCJA CHEMIKALIÓW I WYROBÓW CHEMICZNYCH
+.   20.1    Produkcja podstawowych chemikaliów, nawozów i związków azotowych, tworzyw sztucznych i kauczuku syntetycznego w formach podstawowych
+.   20.2    Produkcja pestycydów i pozostałych środków agrochemicznych
+.   20.3    Produkcja farb, lakierów i podobnych powłok, farb drukarskich i mas uszczelniających
+.   20.4    Produkcja mydła i detergentów, środków myjących i czyszczących, wyrobów kosmetycznych i toaletowych
+.   20.5    Produkcja pozostałych wyrobów chemicznych
+.   20.6    Produkcja włókien chemicznych
+21  .   PRODUKCJA PODSTAWOWYCH SUBSTANCJI FARMACEUTYCZNYCH ORAZ LEKÓW I POZOSTAŁYCH WYROBÓW FARMACEUTYCZNYCH
+.   21.1    Produkcja podstawowych substancji farmaceutycznych
+.   21.2    Produkcja leków i pozostałych wyrobów farmaceutycznych
+22  .   PRODUKCJA WYROBÓW Z GUMY I TWORZYW SZTUCZNYCH
+.   22.1    Produkcja wyrobów z gumy
+.   22.2    Produkcja wyrobów z tworzyw sztucznych
+23  .   PRODUKCJA WYROBÓW Z POZOSTAŁYCH MINERALNYCH SUROWCÓW NIEMETALICZNYCH
+.   23.1    Produkcja szkła i wyrobów ze szkła
+.   23.2    Produkcja wyrobów ogniotrwałych
+.   23.3    Produkcja ceramicznych materiałów budowlanych
+.   23.4    Produkcja pozostałych wyrobów z porcelany i ceramiki
+.   23.5    Produkcja cementu, wapna i gipsu
+.   23.6    Produkcja wyrobów z betonu, cementu i gipsu
+.   23.7    Cięcie, formowanie i wykańczanie kamienia
+.   23.9    Produkcja wyrobów ściernych i pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana
+24  .   PRODUKCJA METALI
+.   24.1    Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych
+.   24.2    Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali
+.   24.3    Produkcja pozostałych wyrobów ze stali poddanej wstępnej obróbce
+.   24.4    Produkcja metali szlachetnych i innych metali nieżelaznych
+.   24.5    Odlewnictwo metali
+25  .   PRODUKCJA METALOWYCH WYROBÓW GOTOWYCH, Z WYŁĄCZENIEM MASZYN I URZĄDZEŃ
+.   25.1    Produkcja metalowych elementów konstrukcyjnych
+.   25.2    Produkcja zbiorników, cystern i pojemników metalowych
+.   25.3    Produkcja wytwornic pary, z wyłączeniem kotłów do centralnego ogrzewania gorącą wodą
+.   25.4    Produkcja broni i amunicji
+.   25.5    Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków
+.   25.6    Obróbka metali i nakładanie powłok na metale; obróbka mechaniczna elementów metalowych
+.   25.7    Produkcja wyrobów nożowniczych, sztućców, narzędzi i wyrobów metalowych ogólnego przeznaczenia
+.   25.9    Produkcja pozostałych gotowych wyrobów metalowych
+26  .   PRODUKCJA KOMPUTERÓW, WYROBÓW ELEKTRONICZNYCH I OPTYCZNYCH
+.   26.1    Produkcja elektronicznych elementów i obwodów drukowanych
+.   26.2    Produkcja komputerów i urządzeń peryferyjnych
+.   26.3    Produkcja sprzętu (tele)komunikacyjnego
+.   26.4    Produkcja elektronicznego sprzętu powszechnego użytku
+.   26.5    Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych; produkcja zegarków i zegarów
+.   26.6    Produkcja urządzeń napromieniowujących, sprzętu elektromedycznego i elektroterapeutycznego
+.   26.7    Produkcja instrumentów optycznych i sprzętu fotograficznego
+.   26.8    Produkcja magnetycznych i optycznych niezapisanych nośników informacji
+27  .   PRODUKCJA URZĄDZEŃ ELEKTRYCZNYCH
+.   27.1    Produkcja elektrycznych silników, prądnic, transformatorów, aparatury rozdzielczej i sterowniczej energii elektrycznej
+.   27.2    Produkcja baterii i akumulatorów
+.   27.3    Produkcja izolowanych przewodów i kabli oraz sprzętu instalacyjnego
+.   27.4    Produkcja elektrycznego sprzętu oświetleniowego
+.   27.5    Produkcja sprzętu gospodarstwa domowego
+.   27.9    Produkcja pozostałego sprzętu elektrycznego
+28  .   PRODUKCJA MASZYN I URZĄDZEŃ, GDZIE INDZIEJ NIESKLASYFIKOWANA
+.   28.1    Produkcja maszyn ogólnego przeznaczenia
+.   28.2    Produkcja pozostałych maszyn ogólnego przeznaczenia
+.   28.3    Produkcja maszyn dla rolnictwa i leśnictwa
+.   28.4    Produkcja maszyn i narzędzi mechanicznych
+.   28.9    Produkcja pozostałych maszyn specjalnego przeznaczenia
+29  .   PRODUKCJA POJAZDÓW SAMOCHODOWYCH, PRZYCZEP I NACZEP, Z WYŁĄCZENIEM MOTOCYKLI
+.   29.1    Produkcja pojazdów samochodowych, z wyłączeniem motocykli
+.   29.2    Produkcja nadwozi do pojazdów silnikowych; produkcja przyczep i naczep
+.   29.3    Produkcja części i akcesoriów do pojazdów silnikowych
+30  .   PRODUKCJA POZOSTAŁEGO SPRZĘTU TRANSPORTOWEGO
+.   30.1    Produkcja statków i łodzi
+.   30.2    Produkcja lokomotyw kolejowych oraz taboru szynowego
+.   30.3    Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn
+.   30.4    Produkcja wojskowych pojazdów bojowych
+.   30.9    Produkcja sprzętu transportowego, gdzie indziej niesklasyfikowana
+31  31.0    PRODUKCJA MEBLI
+32  .   POZOSTAŁA PRODUKCJA WYROBÓW
+.   32.1    Produkcja wyrobów jubilerskich, biżuterii i podobnych wyrobów
+.   32.2    Produkcja instrumentów muzycznych
+.   32.3    Produkcja sprzętu sportowego
+.   32.4    Produkcja gier i zabawek
+.   32.5    Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+.   32.9    Produkcja wyrobów, gdzie indziej niesklasyfikowana
+33  .   NAPRAWA, KONSERWACJA I INSTALOWANIE MASZYN I URZĄDZEŃ
+.   33.1    Naprawa i konserwacja metalowych wyrobów gotowych, maszyn i urządzeń
+.   33.2    Instalowanie maszyn przemysłowych, sprzętu i wyposażenia
+Sekcja D – Wytwarzanie i zaopatrywanie w energię elektryczną, gaz, parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych
+Dział   Grupa   Nazwa grupowania
+35  .   WYTWARZANIE I ZAOPATRYWANIE W ENERGIĘ ELEKTRYCZNĄ, GAZ, PARĘ WODNĄ, GORĄCĄ WODĘ I POWIETRZE DO UKŁADÓW KLIMATYZACYJNYCH
+.   35.1    Wytwarzanie, przesyłanie, dystrybucja i handel energią elektryczną
+.   35.2    Wytwarzanie paliw gazowych; dystrybucja i handel paliwami gazowymi w systemie sieciowym
+.   35.3    Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych
+Sekcja E – Dostawa wody; gospodarowanie ściekami i odpadami oraz działalność związana z rekultywacją
+Dział   Grupa   Nazwa grupowania
+36  36.0    POBÓR, UZDATNIANIE I DOSTARCZANIE WODY
+37  37.0    ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW
+38  .   DZIAŁALNOŚĆ ZWIĄZANA ZE ZBIERANIEM, PRZETWARZANIEM I UNIESZKODLIWIANIEM ODPADÓW; ODZYSK SUROWCÓW
+.   38.1    Zbieranie odpadów
+.   38.2    Przetwarzanie i unieszkodliwianie odpadów
+.   38.3    Odzysk surowców
+39  39.0    DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ I POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z GOSPODARKĄ ODPADAMI
+Sekcja F – Budownictwo
+Dział   Grupa   Nazwa grupowania
+41  .   ROBOTY BUDOWLANE ZWIĄZANE ZE WZNOSZENIEM BUDYNKÓW
+.   41.1    Realizacja projektów budowlanych związanych ze wznoszeniem budynków
+.   41.2    Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+42  .   ROBOTY ZWIĄZANE Z BUDOWĄ OBIEKTÓW INŻYNIERII LĄDOWEJ I WODNEJ
+.   42.1    Roboty związane z budową dróg kołowych i szynowych
+.   42.2    Roboty związane z budową rurociągów, linii telekomunikacyjnych i elektroenergetycznych
+.   42.3    Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej
+43  .   ROBOTY BUDOWLANE SPECJALISTYCZNE
+.   43.1    Rozbiórka i przygotowanie terenu pod budowę
+.   43.2    Wykonywanie instalacji elektrycznych, wodno-kanalizacyjnych i pozostałych instalacji budowlanych
+.   43.3    Wykonywanie robót budowlanych wykończeniowych
+.   43.9    Pozostałe specjalistyczne roboty budowlane
+Sekcja G – Handel hurtowy i detaliczny; naprawa pojazdów samochodowych, włączając motocykle
+Dział   Grupa   Nazwa grupowania
+45  .   HANDEL HURTOWY I DETALICZNY POJAZDAMI SAMOCHODOWYMI; NAPRAWA POJAZDÓW SAMOCHODOWYCH
+.   45.1    Sprzedaż hurtowa i detaliczna pojazdów samochodowych, z wyłączeniem motocykli
+.   45.2    Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+.   45.3    Sprzedaż hurtowa i detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+.   45.4    Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich
+46  .   HANDEL HURTOWY, Z WYŁĄCZENIEM HANDLU POJAZDAMI SAMOCHODOWYMI
+.   46.1    Sprzedaż hurtowa realizowana na zlecenie
+.   46.2    Sprzedaż hurtowa płodów rolnych i żywych zwierząt
+.   46.3    Sprzedaż hurtowa żywności, napojów i wyrobów tytoniowych
+.   46.4    Sprzedaż hurtowa artykułów użytku domowego
+.   46.5    Sprzedaż hurtowa narzędzi technologii informacyjnej i komunikacyjnej
+.   46.6    Sprzedaż hurtowa maszyn, urządzeń i dodatkowego wyposażenia
+.   46.7    Pozostała wyspecjalizowana sprzedaż hurtowa
+.   46.9    Sprzedaż hurtowa niewyspecjalizowana
+47  .   HANDEL DETALICZNY, Z WYŁĄCZENIEM HANDLU DETALICZNEGO POJAZDAMI SAMOCHODOWYMI
+.   47.1    Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+.   47.2    Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona w wyspecjalizowanych sklepach
+.   47.3    Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw
+.   47.4    Sprzedaż detaliczna narzędzi technologii informacyjnej i komunikacyjnej prowadzona w wyspecjalizowanych sklepach
+.   47.5    Sprzedaż detaliczna artykułów użytku domowego prowadzona w wyspecjalizowanych sklepach
+.   47.6    Sprzedaż detaliczna wyrobów związanych z kulturą i rekreacją prowadzona w wyspecjalizowanych sklepach
+.   47.7    Sprzedaż detaliczna pozostałych wyrobów prowadzona w wyspecjalizowanych sklepach
+.   47.8    Sprzedaż detaliczna prowadzona na straganach i targowiskach
+.   47.9    Sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami
+Sekcja H – Transport i gospodarka magazynowa
+Dział   Grupa   Nazwa grupowania
+49  .   TRANSPORT LĄDOWY ORAZ TRANSPORT RUROCIĄGOWY
+.   49.1    Transport kolejowy pasażerski międzymiastowy
+.   49.2    Transport kolejowy towarów
+.   49.3    Pozostały transport lądowy pasażerski
+.   49.4    Transport drogowy towarów oraz działalność usługowa związana z przeprowadzkami
+.   49.5    Transport rurociągowy
+50  .   TRANSPORT WODNY
+.   50.1    Transport morski i przybrzeżny pasażerski
+.   50.2    Transport morski i przybrzeżny towarów
+.   50.3    Transport wodny śródlądowy pasażerski
+.   50.4    Transport wodny śródlądowy towarów
+51  .   TRANSPORT LOTNICZY
+.   51.1    Transport lotniczy pasażerski
+.   51.2    Transport lotniczy towarów i transport kosmiczny
+52  .   MAGAZYNOWANIE I DZIAŁALNOŚĆ USŁUGOWA WSPOMAGAJĄCA TRANSPORT
+.   52.1    Magazynowanie i przechowywanie towarów
+.   52.2    Działalność usługowa wspomagająca transport
+53  .   DZIAŁALNOŚĆ POCZTOWA I KURIERSKA
+.   53.1    Działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych (operatora publicznego)
+.   53.2    Pozostała działalność pocztowa i kurierska
+Sekcja I – Działalność związana z zakwaterowaniem i usługami gastronomicznymi
+Dział   Grupa   Nazwa grupowania
+55  .   ZAKWATEROWANIE
+.   55.1    Hotele i podobne obiekty zakwaterowania
+.   55.2    Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+.   55.3    Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe
+.   55.9    Pozostałe zakwaterowanie
+56  .   DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z WYŻYWIENIEM
+.   56.1    Restauracje i pozostałe placówki gastronomiczne
+.   56.2    Przygotowywanie żywności dla odbiorców zewnętrznych (katering) i pozostała gastronomiczna działalność usługowa
+.   56.3    Przygotowywanie i podawanie napojów
+Sekcja J – Informacja i komunikacja
+Dział   Grupa   Nazwa grupowania
+58  .   DZIAŁALNOŚĆ WYDAWNICZA
+.   58.1    Wydawanie książek i periodyków oraz pozostała działalność wydawnicza, z wyłączeniem w zakresie oprogramowania
+.   58.2    Działalność wydawnicza w zakresie oprogramowania
+59  .   DZIAŁALNOŚĆ ZWIĄZANA Z PRODUKCJĄ FILMÓW, NAGRAŃ WIDEO, PROGRAMÓW TELEWIZYJNYCH, NAGRAŃ DŹWIĘKOWYCH I MUZYCZNYCH
+.   59.1    Działalność związana z filmami, nagraniami wideo i programami telewizyjnymi
+.   59.2    Działalność w zakresie nagrań dźwiękowych i muzycznych
+60  .   NADAWANIE PROGRAMÓW OGÓLNODOSTĘPNYCH I ABONAMENTOWYCH
+.   60.1    Nadawanie programów radiofonicznych
+.   60.2    Nadawanie programów telewizyjnych ogólnodostępnych i abonamentowych
+61  .   TELEKOMUNIKACJA
+.   61.1    Działalność w zakresie telekomunikacji przewodowej
+.   61.2    Działalność w zakresie telekomunikacji bezprzewodowej, z wyłączeniem telekomunikacji satelitarnej
+.   61.3    Działalność w zakresie telekomunikacji satelitarnej
+.   61.9    Działalność w zakresie pozostałej telekomunikacji
+62  62.0    DZIAŁALNOŚĆ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI ORAZ DZIAŁALNOŚĆ POWIĄZANA
+63  .   DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE INFORMACJI
+.   63.1    Przetwarzanie danych; zarządzanie stronami internetowymi (hosting) i podobna działalność; działalność portali internetowych
+.   63.2    Pozostała działalność usługowa w zakresie informacji
+Sekcja K – Działalność finansowa i ubezpieczeniowa
+Dział   Grupa   Nazwa grupowania
+64  .   FINANSOWA DZIAŁALNOŚĆ USŁUGOWA, Z WYŁĄCZENIEM UBEZPIECZEŃ I FUNDUSZÓW EMERYTALNYCH
+.   64.1    Pośrednictwo pieniężne
+.   64.2    Działalność holdingów finansowych
+.   64.3    Działalność trustów, funduszów i podobnych instytucji finansowych
+.   64.9    Pozostała finansowa działalność usługowa, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+65  .   UBEZPIECZENIA, REASEKURACJA ORAZ FUNDUSZE EMERYTALNE, Z WYŁĄCZENIEM OBOWIĄZKOWEGO UBEZPIECZENIA SPOŁECZNEGO
+.   65.1    Ubezpieczenia
+.   65.2    Reasekuracja
+.   65.3    Fundusze emerytalne
+66  .   DZIAŁALNOŚĆ WSPOMAGAJĄCA USŁUGI FINANSOWE ORAZ UBEZPIECZENIA I FUNDUSZE EMERYTALNE
+.   66.1    Działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+.   66.2    Działalność wspomagająca ubezpieczenia i fundusze emerytalne
+.   66.3    Działalność związana z zarządzaniem funduszami
+Sekcja L – Działalność związana z obsługą rynku nieruchomości
+Dział   Grupa   Nazwa grupowania
+68  .   DZIAŁALNOŚĆ ZWIĄZANA Z OBSŁUGĄ RYNKU NIERUCHOMOŚCI
+.   68.1    Kupno i sprzedaż nieruchomości na własny rachunek
+.   68.2    Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+.   68.3    Działalność związana z obsługą rynku nieruchomości wykonywana na zlecenie
+Sekcja M – Działalność profesjonalna, naukowa i techniczna
+Dział   Grupa   Nazwa grupowania
+69  .   DZIAŁALNOŚĆ PRAWNICZA, RACHUNKOWO-KSIĘGOWA I DORADZTWO PODATKOWE
+.   69.1    Działalność prawnicza
+.   69.2    Działalność rachunkowo-księgowa; doradztwo podatkowe
+70  .   DZIAŁALNOŚĆ FIRM CENTRALNYCH (HEAD OFFICES); DORADZTWO ZWIĄZANE Z ZARZĄDZANIEM
+.   70.1    Działalność firm centralnych (head offices) i holdingów, z wyłączeniem holdingów finansowych
+.   70.2    Doradztwo związane z zarządzaniem
+71  .   DZIAŁALNOŚĆ W ZAKRESIE ARCHITEKTURY I INŻYNIERII; BADANIA I ANALIZY TECHNICZNE
+.   71.1    Działalność w zakresie architektury i inżynierii oraz związane z nią doradztwo techniczne
+.   71.2    Badania i analizy techniczne
+72  .   BADANIA NAUKOWE I PRACE ROZWOJOWE
+.   72.1    Badania naukowe i prace rozwojowe w dziedzinie nauk przyrodniczych i technicznych
+.   72.2    Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych
+73  .   REKLAMA, BADANIE RYNKU I OPINII PUBLICZNEJ
+.   73.1    Reklama
+.   73.2    Badanie rynku i opinii publicznej
+74  .   POZOSTAŁA DZIAŁALNOŚĆ PROFESJONALNA, NAUKOWA I TECHNICZNA
+.   74.1    Działalność w zakresie specjalistycznego projektowania
+.   74.2    Działalność fotograficzna
+.   74.3    Działalność związana z tłumaczeniami
+.   74.9    Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+75  75.0    DZIAŁALNOŚĆ WETERYNARYJNA
+Sekcja N – Działalność w zakresie usług administrowania i działalność wspierająca
+Dział   Grupa   Nazwa grupowania
+77  .   WYNAJEM I DZIERŻAWA
+.   77.1    Wynajem i dzierżawa pojazdów samochodowych, z wyłączeniem motocykli
+.   77.2    Wypożyczanie i dzierżawa artykułów użytku osobistego i domowego
+.   77.3    Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych
+.   77.4    Dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim
+78  .   DZIAŁALNOŚĆ ZWIĄZANA Z ZATRUDNIENIEM
+.   78.1    Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników
+.   78.2    Działalność agencji pracy tymczasowej
+.   78.3    Pozostała działalność związana z udostępnianiem pracowników
+79  .   DZIAŁALNOŚĆ ORGANIZATORÓW TURYSTYKI, POŚREDNIKÓW I AGENTÓW TURYSTYCZNYCH ORAZ POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE REZERWACJI I DZIAŁALNOŚCI Z NIĄ ZWIĄZANE
+.   79.1    Działalność agentów i pośredników turystycznych oraz organizatorów turystyki
+.   79.9    Pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane
+80  .   DZIAŁALNOŚĆ DETEKTYWISTYCZNA I OCHRONIARSKA
+.   80.1    Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa
+.   80.2    Działalność ochroniarska w zakresie obsługi systemów bezpieczeństwa
+.   80.3    Działalność detektywistyczna
+81  .   DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z UTRZYMANIEM PORZĄDKU W BUDYNKACH I ZAGOSPODAROWANIEM TERENÓW ZIELENI
+.   81.1    Działalność pomocnicza związana z utrzymaniem porządku w budynkach
+.   81.2    Sprzątanie obiektów
+.   81.3    Działalność usługowa związana z zagospodarowaniem terenów zieleni
+82  .   DZIAŁALNOŚĆ ZWIĄZANA Z ADMINISTRACYJNĄ OBSŁUGĄ BIURA I POZOSTAŁA DZIAŁALNOŚĆ WSPOMAGAJĄCA PROWADZENIE DZIAŁALNOŚCI GOSPODARCZEJ
+.   82.1    Działalność związana z administracyjną obsługą biura, włączając działalność wspomagającą
+.   82.2    Działalność centrów telefonicznych (call center)
+.   82.3    Działalność związana z organizacją targów, wystaw i kongresów
+.   82.9    Działalność komercyjna, gdzie indziej niesklasyfikowana
+Sekcja O – Administracja publiczna i obrona narodowa; obowiązkowe zabezpieczenia społeczne
+Dział   Grupa   Nazwa grupowania
+84  .   ADMINISTRACJA PUBLICZNA I OBRONA NARODOWA; OBOWIĄZKOWE ZABEZPIECZENIA SPOŁECZNE
+.   84.1    Administracja publiczna oraz polityka gospodarcza i społeczna
+.   84.2    Usługi na rzecz całego społeczeństwa
+.   84.3    Obowiązkowe zabezpieczenia społeczne
+Sekcja P – Edukacja
+Dział   Grupa   Nazwa grupowania
+85  .   EDUKACJA
+.   85.1    Wychowanie przedszkolne
+.   85.2    Szkoły podstawowe
+.   85.3    Gimnazja i szkoły ponadgimnazjalne, z wyłączeniem szkół policealnych
+.   85.4    Szkoły policealne oraz wyższe
+.   85.5    Pozaszkolne formy edukacji
+.   85.6    Działalność wspomagająca edukację
+Sekcja Q – Opieka zdrowotna i pomoc społeczna
+Dział   Grupa   Nazwa grupowania
+86  .   OPIEKA ZDROWOTNA
+.   86.1    Działalność szpitali
+.   86.2    Praktyka lekarska
+.   86.9    Pozostała działalność w zakresie opieki zdrowotnej
+87  .   POMOC SPOŁECZNA Z ZAKWATEROWANIEM
+.   87.1    Pomoc społeczna z zakwaterowaniem zapewniająca opiekę pielęgniarską
+.   87.2    Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi
+.   87.3    Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych
+.   87.9    Pozostała pomoc społeczna z zakwaterowaniem
+88  .   POMOC SPOŁECZNA BEZ ZAKWATEROWANIA
+.   88.1    Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
+.   88.9    Pozostała pomoc społeczna bez zakwaterowania
+Sekcja R – Działalność związana z kulturą, rozrywką i rekreacją
+Dział   Grupa   Nazwa grupowania
+90  90.0    DZIAŁALNOŚĆ TWÓRCZA ZWIĄZANA Z KULTURĄ I ROZRYWKĄ
+91  91.0    DZIAŁALNOŚĆ BIBLIOTEK, ARCHIWÓW, MUZEÓW ORAZ POZOSTAŁA DZIAŁALNOŚĆ ZWIĄZANA Z KULTURĄ
+92  92.0    DZIAŁALNOŚĆ ZWIĄZANA Z GRAMI LOSOWYMI I ZAKŁADAMI WZAJEMNYMI
+93  .   DZIAŁALNOŚĆ SPORTOWA, ROZRYWKOWA I REKREACYJNA
+.   93.1    Działalność związana ze sportem
+.   93.2    Działalność rozrywkowa i rekreacyjna
+Sekcja S – Pozostała działalność usługowa
+Dział   Grupa   Nazwa grupowania
+94  .   DZIAŁALNOŚĆ ORGANIZACJI CZŁONKOWSKICH
+.   94.1    Działalność organizacji komercyjnych, pracodawców oraz organizacji profesjonalnych
+.   94.2    Działalność związków zawodowych
+.   94.9    Działalność pozostałych organizacji członkowskich
+95  .   NAPRAWA I KONSERWACJA KOMPUTERÓW I ARTYKUŁÓW UŻYTKU OSOBISTEGO I DOMOWEGO
+.   95.1    Naprawa i konserwacja komputerów i sprzętu komunikacyjnego
+.   95.2    Naprawa i konserwacja artykułów użytku osobistego i domowego
+96  96.0    POZOSTAŁA INDYWIDUALNA DZIAŁALNOŚĆ USŁUGOWA
+Sekcja T – Gospodarstwa domowe zatrudniające pracowników; gospodarstwa domowe produkujące wyroby i świadczące usługi na własne potrzeby
+Dział   Grupa   Nazwa grupowania
+97  97.0    GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE PRACOWNIKÓW
+98  .   GOSPODARSTWA DOMOWE PRODUKUJĄCE WYROBY I ŚWIADCZĄCE USŁUGI NA WŁASNE POTRZEBY
+.   98.1    Gospodarstwa domowe produkujące wyroby na własne potrzeby
+.   98.2    Gospodarstwa domowe świadczące usługi na własne potrzeby
+Sekcja U – Organizacje i zespoły eksterytorialne
+Dział   Grupa   Nazwa grupowania
+99  99.0    ORGANIZACJE I ZESPOŁY EKSTERYTORIALNE
