@@ -12,13 +12,20 @@ from trans import trans
 # In[14]:
 
 skipped = 0
+
+pop = ''
 with open(argv[1] + '.parsed', 'w') as outF:
     with open(argv[1]) as inF:
         for l in inF:
-            try:
-                ziom = etree.fromstring(l)
-            except etree.XMLSyntaxError:
-                skipped += 1
+            if l.strip().endswith('</InformacjaOWpisie>'):
+                try:
+                    ziom = etree.fromstring(pop + l.strip())
+                    pop = ''
+                except etree.XMLSyntaxError:
+                    skipped += 1
+                    continue
+            else:
+                pop += l.strip()
                 continue
             a1 = ziom.find('DaneAdresowe').find('AdresGlownegoMiejscaWykonywaniaDzialalnosci').find('KodPocztowy').text
             a2 = ziom.find('DaneDodatkowe').find('DataRozpoczeciaWykonywaniaDzialalnosciGospodarczej').text
@@ -35,5 +42,5 @@ with open(argv[1] + '.parsed', 'w') as outF:
 
 # In[ ]:
 
-print skipped, 'lines skipped'
+print skipped, 'lines skipped in file', argv[1]
 
