@@ -48,9 +48,3 @@ with open(argv[1] + '.parsed', 'w') as outF:
 
 print skipped, 'lines skipped in file', argv[1]
 
-
-# In[25]:
-
-a = ''
-a[-1]
-
