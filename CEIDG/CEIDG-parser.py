@@ -35,7 +35,7 @@ with open(argv[1] + '.parsed', 'w') as outF:
             nazwaRaw = unicode(ziom.find('DanePodstawowe').find('Firma').text)
             bezpolskich = trans(nazwaRaw).encode('utf8')
             bezkoncowek = map(lambda x: x if x[-1].isalpha() else x[:-1], bezpolskich.split())
-            bezstartow = map(lambda x: x if x[0].isalpha() else x[1:], bezkoncowek)
+            bezstartow = map(lambda x: x if x[0].isalpha() else x[1:], filter(lambda x: len(x) > 1, bezkoncowek))
             a4 = ' '.join(filter(lambda x: x.isalpha(), bezstartow)).lower()
             try:
                 outF.write(','.join(map(str, [a1,a2,a4,a3])) + '\n')
@@ -47,4 +47,10 @@ with open(argv[1] + '.parsed', 'w') as outF:
 # In[ ]:
 
 print skipped, 'lines skipped in file', argv[1]
+
+
+# In[25]:
+
+a = ''
+a[-1]
 
