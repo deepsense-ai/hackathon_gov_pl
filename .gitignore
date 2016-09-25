@@ -1,0 +1,5 @@
+CEIDG/gotten/*
+*.pyc
+CEIDG/.ipynb_checkpoints/*
+CEIDG/temporary/*
+*.gif
