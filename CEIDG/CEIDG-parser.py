@@ -28,11 +28,15 @@ with open(argv[1] + '.parsed', 'w') as outF:
                 pop += l.strip()
                 continue
             a1 = ziom.find('DaneAdresowe').find('AdresGlownegoMiejscaWykonywaniaDzialalnosci').find('KodPocztowy').text
+            if not (len(a1) == 6 and a1[0:2].isdigit() and a1[2] == '-' and a1[3:].isdigit()):
+                a1 = None
             a2 = ziom.find('DaneDodatkowe').find('DataRozpoczeciaWykonywaniaDzialalnosciGospodarczej').text
             a3 = ziom.find('DaneDodatkowe').find('KodyPKD').text
             nazwaRaw = unicode(ziom.find('DanePodstawowe').find('Firma').text)
             bezpolskich = trans(nazwaRaw).encode('utf8')
-            a4 = ' '.join(filter(lambda x: x.isalpha(), map(lambda x: x if x[-1].isalpha() else x[:-1], bezpolskich.split()))).lower()
+            bezkoncowek = map(lambda x: x if x[-1].isalpha() else x[:-1], bezpolskich.split())
+            bezstartow = map(lambda x: x if x[0].isalpha() else x[1:], bezkoncowek)
+            a4 = ' '.join(filter(lambda x: x.isalpha(), bezstartow)).lower()
             try:
                 outF.write(','.join(map(str, [a1,a2,a4,a3])) + '\n')
             except UnicodeEncodeError:
